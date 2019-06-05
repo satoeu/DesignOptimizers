@@ -1,0 +1,10 @@
+Gene_Size, 20
+Features, 2
+Parallel_Num, 1
+Population_size, 100
+Generation, 150
+*
+Use_oracle, 0 0
+*
+*
+FeatureNames,  Obj_1 Objt2_data  
